@@ -1,42 +1,44 @@
 <h1 align="center">Hi 👋, I'm Faizal</h1>
 
 <p align="center">
-  🎓 2nd Year CSE (AI) Student • 🧠 Exploring ML, Cybersecurity, & Full-Stack Development  
+  🎓 2nd Year CSE (AI) Student • 🧠 Machine Learning Focus • Web Dev for Deployment
 </p>
 
 ---
 
 ### 🧠 About Me
-- 📚 Learning: **Full-Stack Development**, **Cybersecurity**, **Machine Learning**
-- 🧘‍♂️ Fun fact: I enjoy combining tech with fitness and productivity.
-
-
-### ⚒️ Tech Stack & Tools
-
-#### **Full-Stack & Backend**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node-dot-js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-#### **Cybersecurity Tools**
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C8B?style=flat&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-5D28B1?style=flat&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-167F67?style=flat&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00A300?style=flat&logo=nmap&logoColor=white)
-
-#### **Machine Learning**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
-
-#### **DevOps & Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+- 📚 Building skills in **Machine Learning & AI**
+- 🌐 Using **Web Development** for model deployment and tools
+- 🧘‍♂️ Mixing tech with fitness & productivity for discipline
 
 ---
+
+### ⚒️ Tech Stack
+
+#### **Core Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+
+#### **Machine Learning**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+#### **Web & Deployment**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+
+#### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
+![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faizdevx&show_icons=true&theme=tokyonight" width="48%" />
@@ -45,5 +47,5 @@
 
 ---
 
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/faisal-arif-ansari)  
+### 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/faisal-arif-ansari)
