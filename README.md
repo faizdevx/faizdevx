@@ -42,10 +42,11 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=faizdevx&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=faizdevx&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://metrics.lecoq.io/faizdevx?template=classic&config.timezone=Asia%2FCalcutta"/>
+<br>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=faizdevx&theme=tokyo-night"/>
 </p>
+
 
 ---
 
