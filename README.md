@@ -46,6 +46,7 @@ class Faizal:
     goal       = "Build production-ready ML systems that actually work in the real world"
 ```
 ![gif](https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif)
+![gif2](https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif)
 ---
 
 ## 📊 GitHub Analytics
