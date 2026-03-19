@@ -6,7 +6,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&pause=3000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=700&height=70&lines=Faizal" alt="Faizal" />
 </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=39D353&center=true&vCenter=true&width=750&lines=🧠+Machine+Learning+%26+AI+Explorer;📊+Data-Driven+Problem+Solver;🌐+Web+Dev+for+Model+Deployment;🎓+3rd+Year+CSE+(AI)+Student" alt="Roles" />
 
 <br/>
 
