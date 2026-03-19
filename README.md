@@ -13,11 +13,9 @@
 <p>
   <img src="https://img.shields.io/badge/ML-Systems-0d1117?style=for-the-badge&labelColor=21262d&color=58a6ff" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Data-Centric-Engineering-0d1117?style=for-the-badge&labelColor=21262d&color=39d353" />
-  &nbsp;
+
   <img src="https://img.shields.io/badge/Model-Deployment-0d1117?style=for-the-badge&labelColor=21262d&color=f78166" />
   &nbsp;
-  <img src="https://img.shields.io/badge/AI-Product-Building-0d1117?style=for-the-badge&labelColor=21262d&color=a371f7" />
 </p>
 
 </div>
