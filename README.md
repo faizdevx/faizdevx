@@ -10,14 +10,15 @@
 
 <br/>
 
-![AI Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=120&section=header&text=&fontColor=58a6ff&fontSize=40&animation=fadeIn)
 
 <p>
-  <img src="https://img.shields.io/badge/Cybersecurity-🤖_AI-0d1117?style=for-the-badge&labelColor=21262d&color=58a6ff" />
+  <img src="https://img.shields.io/badge/ML-Systems-0d1117?style=for-the-badge&labelColor=21262d&color=58a6ff" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Machine_Learning-📊_Data-0d1117?style=for-the-badge&labelColor=21262d&color=39d353" />
+  <img src="https://img.shields.io/badge/Data-Centric-Engineering-0d1117?style=for-the-badge&labelColor=21262d&color=39d353" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Web_Dev-🌐_Deployment-0d1117?style=for-the-badge&labelColor=21262d&color=f78166" />
+  <img src="https://img.shields.io/badge/Model-Deployment-0d1117?style=for-the-badge&labelColor=21262d&color=f78166" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/AI-Product-Building-0d1117?style=for-the-badge&labelColor=21262d&color=a371f7" />
 </p>
 
 </div>
