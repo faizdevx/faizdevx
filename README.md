@@ -45,9 +45,7 @@ class Faizal:
     platforms  = [ "GitHub", "LinkedIn"]
     goal       = "Build production-ready ML systems that actually work in the real world"
 ```
-
-<img align="right" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="AI coding gif" />
-
+![gif](https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d42751461a9d.gif)
 ---
 
 ## 📊 GitHub Analytics
