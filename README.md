@@ -42,7 +42,7 @@ class Faizal:
         "Full-Stack Deployment (React + Python)",
         "Federated Learning & Privacy-Preserving ML"
     ]
-    platforms  = ["Kaggle", "GitHub", "LinkedIn"]
+    platforms  = [ "GitHub", "LinkedIn"]
     goal       = "Build production-ready ML systems that actually work in the real world"
 ```
 
