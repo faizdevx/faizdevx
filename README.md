@@ -76,8 +76,8 @@ IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIlllIIIIIII
 
 ```python
 class Faizal:
-    name       = "Faizal Arif Ansari"
-    role       = "CSE (AI) Student — 3rd Year"
+    name       = "Faizal"
+    role       = "CSE (AI) Student — 4th Year"
     focus      = [
         "Machine Learning & Deep Learning",
         "Model Deployment via Web Dev",
@@ -87,7 +87,7 @@ class Faizal:
     learning   = [
         "Neural Architectures (CNNs, Transformers)",
         "FastAPI / Flask for ML APIs",
-        "Full-Stack Deployment (React + Python)",
+        "Full-Stack Deployment (Flask + Python + React)",
         "Federated Learning & Privacy-Preserving ML"
     ]
     platforms  = [ "GitHub", "LinkedIn"]
