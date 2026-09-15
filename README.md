@@ -1,139 +1,127 @@
-<div align="center">
+# Faizal
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hey%2C+I'm" alt="Hey I'm" />
+**CSE (AI) Student · ML Systems · Model Deployment**
 
-<h1>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&pause=3000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=700&height=70&lines=Faizal" alt="Faizal" />
-</h1>
-
-
-<br/>
-
-![mario](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-
-
-<p>
-  <img src="https://img.shields.io/badge/ML-Systems-0d1117?style=for-the-badge&labelColor=21262d&color=58a6ff" />
-  &nbsp;
-
-  <img src="https://img.shields.io/badge/Model-Deployment-0d1117?style=for-the-badge&labelColor=21262d&color=f78166" />
-  &nbsp;
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700">
 </p>
-
-</div>
 
 ---
 
-## 🧠 About Me
+## About
 
 ```python
 class Faizal:
-    name       = "Faizal"
-    role       = "CSE (AI) Student — 4th Year"
-    focus      = [
+    name = "Faizal"
+    role = "CSE (AI) Student — 4th Year"
+
+    focus = [
         "Machine Learning & Deep Learning",
-        "Model Deployment via Web Dev",
+        "Model Deployment via Web Development",
         "Data-Driven Projects",
-        "Computer Vision & NLP"
+        "Computer Vision & NLP",
     ]
-    learning   = [
-        "Neural Architectures (CNNs, Transformers)",
+
+    learning = [
+        "CNNs & Transformers",
         "FastAPI / Flask for ML APIs",
-        "Full-Stack Deployment (Flask + Python + React)",
-        "Federated Learning & Privacy-Preserving ML"
+        "Flask + Python + React",
+        "Federated Learning & Privacy-Preserving ML",
     ]
-    platforms  = [ "GitHub", "LinkedIn"]
-    goal       = "Build production-ready ML systems that actually work in the real world"
+
+    goal = "Build production-ready ML systems that work in the real world"
 ```
-![gif](https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif)
-![gif2](https://user-images.githubusercontent.com/74038190/215283039-83bf4f37-3fe5-4d25-a42a-249d1a7e9e4f.gif)
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizdevx&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=c9d1d9&count_private=true)](https://github.com/faizdevx)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=faizdevx&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E)](https://github.com/faizdevx)
-
-</div>
-
-<div align="center">
-
-| 📈 Stats | ⏰ Commits (UTC +5:30) |
-|:---:|:---:|
-| [![Stats](https://github-readme-stats.vercel.app/api?username=faizdevx&show=reviews,discussions_started,prs_merged,prs_merged_percentage&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&hide_title=true&hide_rank=true&show_icons=true&icon_color=39d353)](https://github.com/faizdevx) | [![Commit graph](https://github-readme-activity-graph.vercel.app/graph?username=faizdevx&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=39d353&point=f78166&area=true&area_color=39d353)](https://github.com/faizdevx) |
-
-</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif" width="500">
+</p>
 
 ---
 
-## 🗣️ Language Focus
+## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=faizdevx&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=39d353&text_color=c9d1d9&count_private=true" height="180">
+  <img src="https://streak-stats.demolab.com/?user=faizdevx&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=21262D&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" height="180">
+</p>
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizdevx&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8)](https://github.com/faizdevx)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizdevx&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180">
+</p>
 
-</div>
-
----
-
-## ⚒️ Tech Stack
-
-**Core Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Machine Learning & AI**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-**Web & Deployment**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=faizdevx&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=39d353&point=f78166&area=true" width="95%">
+</p>
 
 ---
 
-## 📫 Connect With Me
+## Tech Stack
 
-<div align="center">
+### Languages
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faisal-arif-ansari)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_simply.faisal)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faisalariflko@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/faizdevx)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white">
+</p>
 
+### AI / ML
 
-![IMG1](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzM5MDcyNDEsIm5iZiI6MTc3MzkwNjk0MSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzE5VDA3NTU0MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgwYTBhNWFmNWMzY2YyMWE2ZjBkMzA5NDY4YzBhM2NjMDEwNjU0OGRjNGQ0OGY0OWVhMWE1ZTAzYzk1NjI0MTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3Vaz7vBF5Bk46nFv3E1Uq8KUVHLJwnJKdaYCc36KwFc)
-</div>
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
+</p>
+
+### Web / Deployment
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+</p>
+
+### Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white">
+</p>
 
 ---
 
-<div align="center">
+## Connect
 
-![Profile Views](https://komarev.com/ghpvc/?username=faizdevx&color=58a6ff&style=for-the-badge&label=Profile+Views)
+<p align="center">
+  <a href="https://github.com/faizdevx">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/faisal-arif-ansari">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://instagram.com/_simply.faisal">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:faisalariflko@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-![capsule](https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=100&section=footer)
+---
 
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=faizdevx&color=58a6ff&style=flat-square&label=Profile+Views">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:21262d,50:161b22,100:0d1117&height=100&section=footer" width="100%">
+</p>
