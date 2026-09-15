@@ -6,54 +6,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=42&pause=3000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=700&height=70&lines=Faizal" alt="Faizal" />
 </h1>
 
-```
-IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIlllIIlllll
-IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIII|<<<<<<<<<<<<<<|IIIIIIIIIIIIIIIIIIIIIIIIIIIllIII
-IIIIIIIIIIIIIIIIIIIIIIIII!!<<<<<<<<<<+ll=<<<<<<<<<<<<!|IIIIIIIIIIIIIIIIIIIIlIIII
-IIIIIIIIIIIIIIIIIIIII~<<<<<<|::,,:ii,....;;|<l;:,,,|<<<<<<~IIIIIIIIIIIIIIIlIlIII
-IIIIIIIIIIIIIIIIII!~<<<<<<I1I1;1i;..::ii:.,;,;::it=i1!<<<<<<+!IIIIIIIIIIIIIIIIII
-IIIIIIIIIIIIIIIll<<<=~<<~1=:;;1ii.,......:,.;i:;;;,.,Il:;~<<<<<IIIIIIIIIIIIIIIII
-IIIIIIIIIIIIII~<<<<:t=<<t;;;;11I::iii:..,:...,.,::;:,...1=lI<<<<<~IIIIIIIIIIIIII
-IIIIIIIIIIIIl<<<<<;;,==1;::ii11;,,;itt11i.,......,;;;:,,..!,=<<<<<<lIIIIIIIIIIII
-IIIIIIIIIIl<<<<<<~i,;i;;ii;;;11.11t1,,,...;.,,..:i;:;;,,,,;::<<<<<<<<IIIIIIIIIII
-IIIIIIIIIl<<<<<<~,1:,,:;:,.;1i;:,;;....,,..,..,,.iit:,:,,...t<|t~<<<<<lIIIIIIIII
-IIIIIIII~<<<<<<t:~;Ii1,,::,i::..1i.,.....,......,1t1:,,,.,..,..,;,<<<<<!IIIIIIII
-IIIIIII|<<<<<<<1:t:i,;;;;;i,,..,,;:.......,i,:...1ii..,,....,::,.<<<<<<<|IIIIIII
-IIIIII<<<<<<<<<<~,;;tiIt:,.........,,..:t++<<+,.1ii.,...:;:,,..,!<<<<<<<<>IIIIII
-IIIII|<<<<<<<<<<;i,.:I::i,......,..:l1!>#W@W#:;ii,..:,..,.:;;,...<l<<<<<<<|IIIII
-IIII|<<<<<<<<><|i,.,:i.,tt,...,:1I+=*&@@@@@*ti:;.;.,::...,,,,,,,..!l=<<<<<<IIIII
-IIII<<<<<<<<<i:<::,;,,,,1iti,.,t+<MW@@@@@@ii:<=1;,,:,,:,,.,.,.,,.,,,=<<<<<<<IIII
-III!<<<<<<<<<,,t1;;,,.,;,;,,;,.1=*@@@@@@M1i&W><11;ii,,.,:,,,...,..1<<<<<<<<<!III
-III!<<<<<<<<<=,,.;;,..i:,,i..::.|>W@@@@%i+%##@M>:t,;;..,..,:;;..,<:<<<<<<<<<!III
-II!<<<<<<<<<<<lII.,,::,.,:,,,.,,1<@&@@@@;W%M%@&M<i;.:::,,:,.,..,+<<<<<<<<<<<<lII
-II!<<<<<<<<<<<<<;;;;:,.,:,,,,,,.=>@@@@@%:<@@@%&|...;i:,...,:...;~<<<<<<<<<<<<lII
-II<<<<<<<<<<<<<<<!|;..,,,..,,,it,...,i!#>,II,;ii;;t1!l1:i....::!<<<<<<<<<<<<<<II
-II<<<<<<<<<<<<<<<<t+1.,,,...i1i.IIi..,|*W#i::;<ii+t~~|!,.I;:<<<<<<<<<<<<<<<<<<II
-II<<<<<<<<<<<<<<<<<<=i!I:;:>1#<!+~!=|~>t&&=1l*<>*#MM*~*:|t,;<<<<<<<<<<<<<<<<<<II
-II<<<<<<<<<<<<<<<<<<<<<=t,1i;W@@@@%%@&~M▓█%i<M@@@@@W>!:;I.|<<<<<<<<<<<<<<<<<<<II
-II~<<<<<<<<<<<<<<<<<<<<<<<~~#IW$@@@@@@I@░█$<t+$███*M*<1.;<<<<<<<<<<<<<<<<<<<<+II
-II!<<<<<<<<<<<<<<<<<<<<<<<<+!*t@@@░░%<@@░▓█#&%MWMMMM>~,1I<<<<<<<<<<<<<<<<<<<<lII
-III!<<<<<<<<<<<<<<<<<<<<<<<<<+1*%%&&%%MW$$%=I+&@@@&M!;|<<<<<<<<<<<<<<<<<<<<<!III
-III!<<<<<<<<<<<<<<<<<<<<<<<<<<~,>&@@$$>1,;1,,;;;,;#=:.#~<<<<<<<<<<<<<<<<<<<<!III
-IIII<<<<<<<<<<<<<<<<<<<<<<<<<<<<tt%W:,;i:ltt;i1|=><;,;>▒*=<<<<<<<<<<<<<<<<<<IIII
-IIII!<<<<<<<<<<<<<<<<<<<<<<<<<<<>+;=@@@#W█&&&<###+,:I1~☺▓==<<<<<<<<<<<<<<<<IIIII
-IIIII|<<<<<<<<<<<<<<<<<<<<<<<<<♠☺&:1;<%&&=li+###l.1lIt*♥▓▓>%█<<<<<<<<<<<<<|IIIII
-IIIIII<<<<<<<<<<<<<<<<<<<<<<<▓♣♠█@;I+.1#@@@<M#l:,l!|It▒♥█▒#▓▒☺▓▓$=<<<<<<<<IIIIII
-IIIIIIl~<<<<<<<<<<<<<<<<<<<☺▓♠♠♥▓WII<*1.:it::,.i|++|lt♥♥$▓M▓▒▒▒♥♥▒▒☻<=<<~lIIlIII
-IIIIIIII<<<<<<<<<<<<<<<♠♠♦▒@█♠♣▓█&I+=~MM>+~||l++++l|I#♣☺%M▓▓▒♥♥♥♥▒▓☺♠♦♥☺IIIIIIlI
-IIIIIIIII!<<<<<<<<<$♦♠♦♦♦☻☺▓♠♣☻▒$@@l=**%MM#>=~~<~!!|#♠♦█%█▒▒♥♥♣♦♥♥♥♠♣♥*IIIIIIlIl
-IIIIIIIIIII<<<<*#♠♠♦♥♠♠♠☺☻♠░♠♥░▒█☻♥▒***#@WMMM>M*+=~~!>♦&W▒░♥♥♦♠♠☻♥♠♠♠IIIIlIIlllI
-IIIIIlIIIIIl|☻☺♦♦♣♠♠♠♠♣♦♣♠♠░☺♥▒#▓♣☻♥!M@@%W@%W%M&%MM~░░♥W$▒☻☻♦♠♠♠♥♠♠>lIIIlIllllll
-IIIIIIIIIIIIII@♣♠♠♠♠♠♠♥♦♠♠♠♣☺♣▓█▓$♥♣☺*@@@W@&@@@%M#W♥☺☻♥W▒░♥♥♠♠♠♠♥$IIIIIIllllIlll
-IIIIIIIIIIIIIII!+♠♠♠♠♦♣♠♠♠♠♠♣☻☻☻░♥☺▓♠☺*@@@@@@@@@M░♣♠☺♦▒&▒♥♦♠♠♠♠+IIIIIllllllllllI
-IIIIIIIIIIIIIIIIIIW☻♦♦♠♠♠♠♠♠♠☻♥▓♦♥♠♠☺▒&#%@@%%%W█♠♠☺♥♠♥@▒☻♦♠♠@WIIIIIIIIIlllllIIll
-IIIIIIIIIIIIIIIIIIIII$♣♠♠♠♠♠♠♠☻♠☺♥♥♠♠♣♦>&%%%%%♥♠♠♠♣☻#%☺♦♠♥$IIIIIIIIIIIIIllIllIII
-IIIIIIIIIlIIIIIIIIIIIIIII%•♠♠♠♠♥☺♠♥♠♠♠♠▒*%%%*•░W*W☺☺☻♠%IIIIIIIIIIIIllllllllIIIII
-IIIIIIIIIIIIIIIIIIIIIIIIIIIII~&&$♥☻♠♦♠♠♦%#%&☺@☻%*#IIIIIIIIIIIIIIIIllllllllIIIlII
-IIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIlllIIIIIII
-
-```
-
 
 <br/>
 
